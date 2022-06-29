@@ -4,7 +4,9 @@ the Ministry of Communications and Information Technology (MCIT) launches the Fu
 
 # Projects in this Course
 
+- Image resize
+  - eslint config, prettier, unit Test
 - store front
-  - SQL,DB migration, unit Test, TypeScript, nodejs, express
+  - SQL,DB migration, TypeScript, nodejs, express
 - udagram AWS
   - CI pipeline, Amazon(S3, EB, RDS)

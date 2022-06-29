@@ -1,3 +1,9 @@
 [submodule "udacity-image-resize"]
 	path = udacity-image-resize
 	url = https://github.com/khali70/udacity-image-resize.git
+[submodule "udagram-aws"]
+	path = udagram-aws
+	url = https://github.com/khali70/udagram-aws.git
+[submodule "nd0067-c2-creating-an-api-with-postgresql-and-express-project-starter"]
+	path = nd0067-c2-creating-an-api-with-postgresql-and-express-project-starter
+	url = https://github.com/khali70/nd0067-c2-creating-an-api-with-postgresql-and-express-project-starter.git
