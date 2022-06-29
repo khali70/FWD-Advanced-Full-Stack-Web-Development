@@ -4,9 +4,16 @@ the Ministry of Communications and Information Technology (MCIT) launches the Fu
 
 # Projects in this Course
 
-- Image resize
-  - eslint config, prettier, unit Test
-- store front
-  - SQL,DB migration, TypeScript, nodejs, express
-- udagram AWS
-  - CI pipeline, Amazon(S3, EB, RDS)
+- [Image resize](./udacity-image-resize/Readme.md)
+  - eslint config
+  - prettier
+  - unit Test
+- [store front](./nd0067-c2-creating-an-api-with-postgresql-and-express-project-starter/README.md)
+  - postgres SQL
+  - DB migration
+  - TypeScript
+  - nodejs
+  - express
+- [udagram AWS](./udagram-aws/README.md)
+  - CI pipeline
+  - Amazon(S3, EB, RDS)
