@@ -1,0 +1,3 @@
+[submodule "udacity-image-resize"]
+	path = udacity-image-resize
+	url = https://github.com/khali70/udacity-image-resize.git
